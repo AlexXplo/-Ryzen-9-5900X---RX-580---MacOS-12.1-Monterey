@@ -1,6 +1,6 @@
-CPU: AMD Ryzen 9 5900X
-RAM: 2x 8GB Corsair VENGEANCE DDR4 3000Mhz
-Mainboard: Gigabyte Aorus B550 Elite V2 - F13 Bios Version
+CPU: AMD Ryzen 9 5900X<br>
+RAM: 2x 8GB Corsair VENGEANCE DDR4 3000Mhz<br>
+Mainboard: Gigabyte Aorus B550 Elite V2 - F13 Bios Version<br>
 GPU: Powercolor AMD RX 580 - 8GB
 Audio: Creative X-Fi Soundblaster 5.1 THX (USB)
 
